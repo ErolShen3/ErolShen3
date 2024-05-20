@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ErolShen3
-- 👀 I’m interested in C#,MSSQl
+- 👋 Hi, I’m Erol Shen
+- 👀 I’m interested in C#, SQl, Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ...
